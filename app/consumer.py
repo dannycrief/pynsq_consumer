@@ -32,7 +32,6 @@ def handler(message):
         print(USERS)
         print(DESTINATION)
         print(ORIGIN)
-
         return True
     except JSONDecodeError:
         return False
