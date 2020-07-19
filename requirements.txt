@@ -1,0 +1,2 @@
+marshmallow==3.5.1
+pynsq==0.8.3  
